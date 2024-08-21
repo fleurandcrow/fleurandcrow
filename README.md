@@ -1,0 +1,5 @@
+- 17 years old
+- Programming languages I know: C#, Python
+- Text editors I use: Neovim, VSCodium
+- Game dev in Godot
+- Still a newbie -v-
