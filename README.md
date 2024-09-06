@@ -11,7 +11,7 @@
 - Programming languages: C#, Python, GDScript
 - Non programming related: Traditional art, Digital art, Writing
 
-## My favortie tools
+## My favorite tools
 
 - Text editors: Neovim, VSCodium (I mostly use Neovim)
 - Game engine: Godot
