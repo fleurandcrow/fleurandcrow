@@ -2,9 +2,9 @@
 
 ## About me
 
-- 17 years old
+- 18 years old
 - Game dev in Godot
-- Still a newbie -v-
+- Still new to game development
 
 ## My skills
 
