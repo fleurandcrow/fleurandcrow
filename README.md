@@ -22,6 +22,8 @@ My mascot is an anthropomorphic cat wearing devil headphones, they also have a h
 
 ## Links
 
+[Mastodon](https://peoplemaking.games/@fleurandcrow)
+
 [Artfol](https://www.artfol.co/fleurandcrow)  
 
 [Itch.io](https://fleurendcrow.itch.io/) (Yes, the account does have an "e" instead of an "a")  
