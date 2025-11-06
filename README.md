@@ -8,12 +8,12 @@
 
 ## My skills
 
-- Programming languages: C#, Python, GDScript
+- Programming languages: C#, Python, GDScript, C
 - Non programming related: Traditional art, Digital art, Writing
 
 ## My favorite tools
 
-- Text editors: Neovim, VSCodium (I mostly use Neovim)
+- Text editors: Neovim, Vim, VSCodium (I mostly use Neovim)
 - Game engine: Godot
 
 ## My mascot?
