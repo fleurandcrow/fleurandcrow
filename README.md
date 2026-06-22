@@ -2,19 +2,19 @@
 
 ## About me
 
-- 18 years old
-- Game dev in Godot
+- 19 years old
+- Game dev
 - Still new to game development
 
 ## My skills
 
-- Programming languages: C#, Python, GDScript, C
+- Programming (and markup) languages: C#, C++, C, Python, HTML, CSS
 - Non programming related: Traditional art, Digital art, Writing
 
 ## My favorite tools
 
-- Text editors: Neovim, Vim, VSCodium (I mostly use Neovim)
-- Game engine: Godot
+- Text editors: Vim, VSCodium (I mostly use Vim)
+- Game engine: Currently trying to switch to a new one
 
 ## My mascot?
 
